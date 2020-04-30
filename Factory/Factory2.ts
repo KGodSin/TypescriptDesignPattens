@@ -1,1 +1,3 @@
-class Factory2 {}
+class Factory2 {
+	a = 20;
+}
